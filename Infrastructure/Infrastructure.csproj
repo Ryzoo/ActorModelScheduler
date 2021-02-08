@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <PreserveCompilationContext>true</PreserveCompilationContext>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Akka" Version="1.4.16" />
+      <PackageReference Include="Akka.DependencyInjection" Version="1.4.16" />
+      <PackageReference Include="CsvHelper" Version="22.1.2" />
+      <PackageReference Include="FluentEmail.Core" Version="3.0.0" />
+      <PackageReference Include="FluentEmail.Razor" Version="3.0.0" />
+      <PackageReference Include="FluentEmail.Smtp" Version="3.0.0" />
+      <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Core\Core.csproj" />
+    </ItemGroup>
+
+</Project>

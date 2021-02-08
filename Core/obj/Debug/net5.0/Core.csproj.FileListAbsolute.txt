@@ -1,0 +1,12 @@
+C:\Users\gkastelik\RiderProjects\ActorModelScheduler\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\gkastelik\RiderProjects\ActorModelScheduler\Core\bin\Debug\net5.0\Core.dll
+C:\Users\gkastelik\RiderProjects\ActorModelScheduler\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\gkastelik\RiderProjects\ActorModelScheduler\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\gkastelik\RiderProjects\ActorModelScheduler\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+C:\Users\gkastelik\RiderProjects\ActorModelScheduler\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkastelik\RiderProjects\ActorModelScheduler\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\gkastelik\RiderProjects\ActorModelScheduler\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\gkastelik\RiderProjects\ActorModelScheduler\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\gkastelik\RiderProjects\ActorModelScheduler\Core\obj\Debug\net5.0\Core.dll
+C:\Users\gkastelik\RiderProjects\ActorModelScheduler\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\gkastelik\RiderProjects\ActorModelScheduler\Core\obj\Debug\net5.0\Core.pdb

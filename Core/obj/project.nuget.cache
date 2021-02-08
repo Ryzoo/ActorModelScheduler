@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aRamCtx5u42RDYrTVxlkrKHX+CkZMdBOwRJGddgV94w8Yo2eFMO4kFvpCUcyCt36lKGnHFucsG2Y+wGAGbMSBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gkastelik\\RiderProjects\\ActorModelScheduler\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gkastelik\\.nuget\\packages\\csvhelper\\22.1.2\\csvhelper.22.1.2.nupkg.sha512",
+    "C:\\Users\\gkastelik\\.nuget\\packages\\fluentemail.core\\3.0.0\\fluentemail.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\gkastelik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.11\\microsoft.extensions.dependencyinjection.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\gkastelik\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
