@@ -171,3 +171,7 @@ Akka.Configuration.ConfigurationException: Configuration problem while creating 
 2021-02-08 20:45:29.628 +01:00 [INF] Application started. Press Ctrl+C to shut down.
 2021-02-08 20:45:29.632 +01:00 [INF] Hosting environment: Development
 2021-02-08 20:45:29.635 +01:00 [INF] Content root path: C:\Users\gkastelik\RiderProjects\ActorModelScheduler\Application
+2021-02-08 20:54:01.066 +01:00 [INF] Starting up
+2021-02-08 20:54:01.528 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-08 20:54:01.532 +01:00 [INF] Hosting environment: Development
+2021-02-08 20:54:01.535 +01:00 [INF] Content root path: C:\Users\gkastelik\RiderProjects\ActorModelScheduler\Application

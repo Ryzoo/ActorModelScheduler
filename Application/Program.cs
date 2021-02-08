@@ -4,7 +4,6 @@ using Core.Interfaces;
 using Core.Interfaces.Mails;
 using Core.Settings;
 using Domain;
-using Infrastructure.Akka;
 using Infrastructure.Mails;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -50,10 +49,9 @@ namespace Application
                     services
                         .Configure<CsvFileSettings>(conf.GetSection(CsvFileSettings.Name))
                         .Configure<EmailSettings>(conf.GetSection(EmailSettings.Name))
-                        .AddTransient<ICsvParser, CsvParser>()
-                        .AddTransient<IMailBuilder, MailBuilder>()
-                        .AddSingleton<IAkkaBuilderService, AkkaBuilderService>()
-                        .AddHostedService(sp => (AkkaBuilderService) sp.GetRequiredService<IAkkaBuilderService>())
+                        .AddScoped<ICsvParser, CsvParser>()
+                        .AddScoped<IMailBuilder, MailBuilder>()
+                        .AddHostedService<AkkaBuilderService>()
                         .AddFluentEmail(emailSettings.From)
                         .AddSmtpSender(emailSettings.Host, emailSettings.Port, emailSettings.Username, emailSettings.Password)
                         .AddRazorRenderer();
